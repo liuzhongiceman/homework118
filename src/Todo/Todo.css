@@ -1,0 +1,39 @@
+.deleted {
+  color: black;
+  font-size: 30px;
+  text-decoration: line-through;
+}
+
+.todo {
+  color: orchid;
+  font-size: 30px;
+}
+
+.delete {
+  color: green;
+  font-size: 30px;
+}
+
+li {
+  list-style: none;
+  font-size: 30px;
+  margin: 2px auto;
+  text-align: center;
+  color: white;
+}
+
+input {
+  color: red;
+  padding: 5px 15px;
+  text-align: center;
+  font-size: 30px;
+}
+
+span { font-size: 30px; }
+
+button {
+  margin: 0 10px;
+  font-size: 30px;
+}
+
+button:hover { cursor: pointer }

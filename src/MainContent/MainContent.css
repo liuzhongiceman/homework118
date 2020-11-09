@@ -1,0 +1,16 @@
+ul { width: 780px; }
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+button {
+  margin: 10px;
+  padding: 5px 15px;
+  font-size: 30px;;
+}
+

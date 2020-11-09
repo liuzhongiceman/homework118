@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+  min-height: 100vh;
+  position: relative;
+  background-color: red;
+  background-image:
+    linear-gradient(
+      red, #f06d06
+    );
+}
+
